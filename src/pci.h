@@ -3,6 +3,6 @@
 
 #include <stdint.h>
 
-uint8_t* pci_map_resource(const char* bus_id);
+uint8_t *pci_map_resource(const char *bus_id);
 
-#endif //IXY_PCI_H
+#endif // IXY_PCI_H
